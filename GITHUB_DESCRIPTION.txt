@@ -1,0 +1,18 @@
+Jarvis AI Assistant
+===================
+
+Short Description (For GitHub "About"):
+A voice-activated Windows assistant that opens any app, downloads images, and controls your PC using natural language. Features a universal app scanner and smart command processing.
+
+Tags:
+python, voice-assistant, automation, windows, jarvis, speech-recognition, ai
+
+===================
+Social Media Post
+===================
+🚀 Built my own Jarvis! A Python voice assistant that controls my entire PC.
+
+It scans 1000+ apps to open anything ("Open Telegram"), downloads images by voice ("Download Batman pic"), and understands complex commands ("Search Google for ChatGPT and open it").
+
+Check it out on GitHub! 👇
+[Link]
